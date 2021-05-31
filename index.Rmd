@@ -3,9 +3,7 @@
 title: "Estatística Aplicada às Ciências Humanas "
 date: ""
 output:
-  rmdformats::material:
-    highlight: kate
-    cards: TRUE
+  rmdformats::downcute
 ---
 
 
