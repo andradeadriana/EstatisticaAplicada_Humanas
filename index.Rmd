@@ -1,9 +1,12 @@
 
 ---
-title: "Estatística Aplicada às Ciências Humanas "
+title: "Estatística Aplicada às Ciências Humanas"
+subtitle: ""
+author: "Prof. Adriana Andrade UFRRJ" 
 date: ""
 output:
-  rmdformats::downcute
+  rmdformats::material
+   
 ---
 
 
@@ -36,7 +39,7 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 
 |AVISO                  |
 |-----------------------|
-| Informações sobre o funcionamento da disciplina [link]()|
+| Informações sobre o funcionamento da disciplina [link](https://drive.google.com/file/d/1E1u4THQZgFDBvJWlSMPpEye-DITyKjdR/view?usp=sharing)|
 
 *************************************************************************************************************************************************************
 
@@ -91,11 +94,9 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 # **SOFTWARE**
 
-+ Tutorial de instalação do R [link](https://drive.google.com/file/d/1DzxPxm5EwPAoeKqf-WbhAM0Md3GXYBjw/view?usp=sharing)
-
 
 **SLIDES DE TUTORIAL DO Jamovi**
-- Instalação do Jamovi, grafico e tabelas
+- Instalação do Jamovi, grafico e tabelas [link]()
 
 
 
