@@ -146,7 +146,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 *Art. 31 / 1º - Para as atividades remostas síncronas haverá aferição de assiduidade....*
 
                   
-  
 |    Tópico                               | Material                | Link              
 |-----------------------------------------| -------------------     | ------------------- 
 | Tabelas                                 | Videoaula               | [link](https://drive.google.com/file/d/1PDik-3ONTG-Je7b1pBNLtcUo5o4LKZWh/view?usp=sharing)
@@ -155,7 +154,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1W3C4Fwcm7eXhQeQq2Q1Wnt8YbA1ZDEdO/view?usp=sharing)
 | Gráficos - Variáveis Quantitativas      | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/14fG4BMQeMz3lhCKrLuK8RjKmgaVXZjjy/view?usp=sharing)
-|                                         | **Lista de Exercícios**
+|                                         | **Lista de Exercícios** |[link](https://drive.google.com/file/d/1HAOYpO2XdMEodh-xcXdnvWtAx8Y85jhI/view?usp=sharing) 
 | Medidas de Posição e Tendência Central  | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/19CykvMJNImFXDOe43crMEMpPQhSHQ48Q/view?usp=sharing)
 | Medidas de Dispersão                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
@@ -169,7 +168,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios** | [link]() 
-
 
 
 
