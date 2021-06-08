@@ -37,7 +37,7 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 
 *************************************************************************************************************************************************************
 
-|AVISO                  |
+|AVISO  - junho                |
 |-----------------------|
 | Informações sobre o funcionamento da disciplina [link](https://drive.google.com/file/d/1E1u4THQZgFDBvJWlSMPpEye-DITyKjdR/view?usp=sharing)|
 
@@ -96,7 +96,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 
 **SLIDES DE TUTORIAL DO Jamovi**
-- Instalação do Jamovi, grafico e tabelas [link]()
+- Instalação do Jamovi, grafico e tabelas [link](https://drive.google.com/file/d/17A5Ry48JcVPYlxPkM9euXODoXg6bLYgO/view?usp=sharing)
 
 
 
