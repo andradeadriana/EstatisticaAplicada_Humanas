@@ -36,6 +36,10 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 
 
 *************************************************************************************************************************************************************
+|AVISO  - AULA  JAMOVI  |
+|-----------------------|
+|Já estão disponíveis os materiais da Aula 2 de JAMOVI - ver **SOFTWARE**|
+
 
 |AVISO  - junho                |
 |-----------------------|
@@ -105,6 +109,16 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 - Conunto de dados - Aula 10/jun/2021 [link](https://drive.google.com/file/d/16Zdo__Sq_dPVquwdu_ducqW_ynrR41C9/view?usp=sharing)
 
 
+
+- **Aula 01/07/2021**
+
+|Material | Link|
+|---------|-----|
+|Peso |[peso.csv](https://drive.google.com/file/d/14Pm0gOEQnmmVi1pHErUIKowF-TboIHEz/view?usp=sharing)|
+|Alutra_Peso|[altura_peso.csv](https://drive.google.com/file/d/1W6rDf-P_nS1Kzp6kSpQyWLCnueqT6pmT/view?usp=sharing)|
+| Tutorial JAMOVI parte 2| [link](https://drive.google.com/file/d/114zjJyEslutkAtvdEf5kJHWZrwnaWmxo/view?usp=sharing)|
+
+
 *************************************************************************************************************************************************************
 
 
@@ -112,11 +126,10 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
 
-https://drive.google.com/file/d/1JErmUD9kexwJYxjk-b5V34zLG3ORPvhp/view?usp=sharing
 
    
 ```{r, out.width='90%', fig.align='center'}
-knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/Monitoria.png')
+knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.png')
 ```
 
 
@@ -187,7 +200,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | **Lista de Exercícios_3** | [link](https://drive.google.com/open?id=1d6EL-J9Vdshh1B5Pa_ptWoPwbRPX5MdL)      
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
-|                                         | **Lista de Exercícios** | [link]() 
+|                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/10-eYqRggwdRhjZP6OKdaH1JYA-PyK-pG/view?usp=sharing) 
 
 
 
