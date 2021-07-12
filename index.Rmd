@@ -132,6 +132,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 |---------|-----|
 |Orientações | [link](https://drive.google.com/file/d/1gxzcFKd8c7o5uwJJyiK6mg5Td9kun7VX/view?usp=sharing) |
 |Base de dados | [Base_IC814.csv](https://drive.google.com/file/d/1wxI_9DwKfDFu-g47ns2HeNMLh1R5OonD/view?usp=sharing)|
+|Questionário - Perguntas | [arquivo](https://drive.google.com/file/d/19Z1KXwSmgzk92Uit_AArEVtqsLQePQD7/view?usp=sharing)|
 
 *************************************************************************************************************************************************************
 
