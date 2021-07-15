@@ -119,16 +119,16 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 | Tutorial JAMOVI parte 2| [link](https://drive.google.com/file/d/114zjJyEslutkAtvdEf5kJHWZrwnaWmxo/view?usp=sharing)|
 
 
-**Aula 03/07/2021**
+**Aula 13/07/2021**
 
-|Material | Link|
+|Material | |
 |---------|-----|
 |Base de dados |  [dados_turma.csv](https://drive.google.com/open?id=1SuYc4RUn080Ka9fZz9kbcMEC_tn_K-SS)|
 | Tutorial JAMOVI parte 3| [link](https://drive.google.com/open?id=1bbo7fWl4lH4Dn7tgfi5Ph27GOuAIU2oP)|
 
 **Trabalho**
 
-|Material | Link|
+|Material |     |
 |---------|-----|
 |Orientações | [link](https://drive.google.com/file/d/1gxzcFKd8c7o5uwJJyiK6mg5Td9kun7VX/view?usp=sharing) |
 |Base de dados | [Base_IC814.csv](https://drive.google.com/file/d/1wxI_9DwKfDFu-g47ns2HeNMLh1R5OonD/view?usp=sharing)|
@@ -216,6 +216,12 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Análise Bidimensional - Qualitativa     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/10-eYqRggwdRhjZP6OKdaH1JYA-PyK-pG/view?usp=sharing) 
+| Introdução à Probabilidade             | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
+|                                         | Slides da Aula - Parte 1         | [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)     
+|                                         | Slides da Aula - Parte 2          | [link](https://drive.google.com/file/d/16hCVUfZqHcphTvy46gVtA7496YWDwrrB/view?usp=sharing) 
+|                                         | **Lista de Exercícios_5** | [link](https://drive.google.com/file/d/10TTtuVvC6U0c-XFVAiCq9PzUxQg-eNLX/view?usp=sharing) 
+
+
 
 
 
