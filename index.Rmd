@@ -173,7 +173,7 @@ knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.
 |	22/07/2021	|		Apresentação do Trabalho|	Síncrona	|
 |	27/07/2021	|	 Distribuição Normal	|	Síncrona	|
 |	29/07/2021	|		|	Assíncrona	|
-|	03/08/2021	|	 Distribuição Normal	|	Síncrona	|
+|	03/08/2021	|	 Introdução à Inferência Estatística	|	Síncrona	|
 |	05/08/2021	|		|	Assíncrona	|
 |	10/08/2021	|	 Intervalo de Confiança	|	Síncrona	|
 |	12/08/2021	|		|	Assíncrona	|
@@ -217,10 +217,14 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/10-eYqRggwdRhjZP6OKdaH1JYA-PyK-pG/view?usp=sharing) 
 | Introdução à Probabilidade             | Videoaula - parte 1              | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
-|                                        | Videoaula - parte 2              | [link](https://drive.google.com/file/d/1UxTOlCRV6DtGnIrlwGGCvKWP7FwYo6LC/view?usp=sharing)  
+|                                        | Videoaula - parte 2 - NÃO ACESSAR DO YOUTUBE             | [link](https://drive.google.com/file/d/1UxTOlCRV6DtGnIrlwGGCvKWP7FwYo6LC/view?usp=sharing)  
 |                                         | Slides da Aula - Parte 1         | [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)     
 |                                         | Slides da Aula - Parte 2          | [link](https://drive.google.com/file/d/16hCVUfZqHcphTvy46gVtA7496YWDwrrB/view?usp=sharing) 
 |                                         | **Lista de Exercícios_5** | [link](https://drive.google.com/file/d/10TTtuVvC6U0c-XFVAiCq9PzUxQg-eNLX/view?usp=sharing) 
+| Distribuição Normal    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
+|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)  
+|                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
+|                                         | **Lista de Exercícios_6** | [link](https://drive.google.com/file/d/1VugFQb2Qd29B5To06bhn0a4JSSg2e7Hy/view?usp=sharing)      
 
 
 
