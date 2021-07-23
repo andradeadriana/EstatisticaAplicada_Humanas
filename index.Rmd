@@ -38,6 +38,20 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 *************************************************************************************************************************************************************
 |AVISO  - JULHO  |
 |-----------------------|
+|Boxplot Notas Turma |
+
+
+```{r, out.width='20%', fig.align='center'}
+knitr::include_graphics('Boxplot_NotaP1_814.png')
+
+```
+
+
+
+
+
+|AVISO  - JULHO  |
+|-----------------------|
 |Disponíveis os materiais da **Aula 3** de JAMOVI e do **trabalho** - ver **SOFTWARE**|
 
 
