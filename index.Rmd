@@ -248,10 +248,6 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Intervalo de Confiança                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula - Intervalo de Confiança        | [link](https://drive.google.com/file/d/1P7DX-4gOTmd-p_wXwIj2FM-zn934fxZw/view?usp=sharing)
 |                                         | **Lista de Exercícios_8** | [link](https://drive.google.com/file/d/1lYwqaxUpwZ79RASMlv1RxP2-w-drvJng/view?usp=sharing) 
-| Teste de Hipótese                   | Videoaula               | [link](https://drive.google.com/file/d/1bfRT39iMn0H7P-2VOJcXcvY38dd1IPDA/view?usp=sharing) 
-|                                         | Slides da Aula - Teste de Hipótese        | [link](https://drive.google.com/file/d/12Jq6mu0RxPPJq4UoK8IgvRRzPAlXkjmk/view?usp=sharing)
-|                                         | **Lista de Exercícios_9** | [link](https://drive.google.com/file/d/1i0htwVHfcMmtt9XA-BKTD8J3bqZCXbkP/view?usp=sharing) 
-
 
 
 *************************************************************************************************************************************************************
