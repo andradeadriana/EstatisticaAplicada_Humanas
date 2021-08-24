@@ -36,13 +36,34 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 
 
 *************************************************************************************************************************************************************
-|AVISO  - JULHO  |
-|-----------------------|
-|Boxplot Notas Turma |
+
+```{r}
+notas<-read.csv2("C:/Users/andra/Google Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Notas_Finais.csv")
+library(tidyverse)
+
+notas<-notas %>% 
+    pivot_longer(
+    cols = starts_with("N"), 
+    names_to = "Avaiacao",
+    values_to = "Notas"
+  ) 
+notas$Notas<-as.numeric(gsub(',', '.', notas$Notas))
+library(ggplot2)
+ggplot(data=notas)+
+  geom_boxplot(aes(x=Avaiacao,y=Notas),fill="green")+
+  xlab("Avaliação")+
+  ggtitle("Notas das Avaliação e Nota Final - IC 814 2/2020")
+
+```
+
+```{r}
+
+```
+
 
 
 ```{r, out.width='20%', fig.align='center'}
-knitr::include_graphics('Boxplot_NotaP1_814.png')
+#knitr::include_graphics('Boxplot_NotaP1_814.png')
 
 ```
 
