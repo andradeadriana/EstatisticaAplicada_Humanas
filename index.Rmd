@@ -38,21 +38,21 @@ Neste ambiente serão disponibilizados materiais relacionados com a disciplina d
 *************************************************************************************************************************************************************
 
 ```{r}
-notas<-read.csv2("C:/Users/andra/Google Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Notas_Finais.csv")
-library(tidyverse)
+#notas<-read.csv2("C:/Users/andra/Google Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Notas_Finais.csv")
+#library(tidyverse)
 
-notas<-notas %>% 
-    pivot_longer(
-    cols = starts_with("N"), 
-    names_to = "Avaiacao",
-    values_to = "Notas"
-  ) 
-notas$Notas<-as.numeric(gsub(',', '.', notas$Notas))
-library(ggplot2)
-ggplot(data=notas)+
-  geom_boxplot(aes(x=Avaiacao,y=Notas),fill="green")+
-  xlab("Avaliação")+
-  ggtitle("Notas das Avaliação e Nota Final - IC 814 2/2020")
+#notas<-notas %>% 
+    #pivot_longer(
+  #  cols = starts_with("N"), 
+  #  names_to = "Avaliacao",
+  #  values_to = "Notas"
+ # ) 
+#notas$Notas<-as.numeric(gsub(',', '.', notas$Notas))
+#library(ggplot2)
+#ggplot(data=notas)+
+#  geom_boxplot(aes(x=Avaiacao,y=Notas),fill="green")+
+#  xlab("Avaliação")+
+#  ggtitle("Notas das Avaliação e Nota Final - IC 814 2/2020")
 
 ```
 
@@ -60,25 +60,6 @@ ggplot(data=notas)+
 
 ```
 
-
-
-```{r, out.width='20%', fig.align='center'}
-#knitr::include_graphics('Boxplot_NotaP1_814.png')
-
-```
-
-
-
-
-
-|AVISO  - JULHO  |
-|-----------------------|
-|Disponíveis os materiais da **Aula 3** de JAMOVI e do **trabalho** - ver **SOFTWARE**|
-
-
-|AVISO  - junho                |
-|-----------------------|
-| Informações sobre o funcionamento da disciplina [link](https://drive.google.com/file/d/1E1u4THQZgFDBvJWlSMPpEye-DITyKjdR/view?usp=sharing)|
 
 *************************************************************************************************************************************************************
 
@@ -143,11 +124,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 - Instalação do JASP [link](https://drive.google.com/open?id=1g9QyLvnXgfIZ8jrTkLunabhnVW1WtAHp)
 *A parte de tabelas, gráfico e instalação de módulos do JASP é semelhante ao JAMOVI. Consulte o material do JAMOVI.*
 
-- Conunto de dados - Aula 10/jun/2021 [link](https://drive.google.com/file/d/16Zdo__Sq_dPVquwdu_ducqW_ynrR41C9/view?usp=sharing)
+- Conunto de dados -  [link](https://drive.google.com/file/d/16Zdo__Sq_dPVquwdu_ducqW_ynrR41C9/view?usp=sharing)
 
 
 
-- **Aula 01/07/2021**
+- **Aula 2**
 
 |Material | Link|
 |---------|-----|
@@ -156,20 +137,13 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 | Tutorial JAMOVI parte 2| [link](https://drive.google.com/file/d/114zjJyEslutkAtvdEf5kJHWZrwnaWmxo/view?usp=sharing)|
 
 
-**Aula 13/07/2021**
+**Aula 3**
 
 |Material | |
 |---------|-----|
 |Base de dados |  [dados_turma.csv](https://drive.google.com/open?id=1SuYc4RUn080Ka9fZz9kbcMEC_tn_K-SS)|
 | Tutorial JAMOVI parte 3| [link](https://drive.google.com/open?id=1bbo7fWl4lH4Dn7tgfi5Ph27GOuAIU2oP)|
 
-**Trabalho**
-
-|Material |     |
-|---------|-----|
-|Orientações | [link](https://drive.google.com/file/d/1gxzcFKd8c7o5uwJJyiK6mg5Td9kun7VX/view?usp=sharing) |
-|Base de dados | [Base_IC814.csv](https://drive.google.com/file/d/1wxI_9DwKfDFu-g47ns2HeNMLh1R5OonD/view?usp=sharing)|
-|Questionário - Perguntas | [arquivo](https://drive.google.com/file/d/19Z1KXwSmgzk92Uit_AArEVtqsLQePQD7/view?usp=sharing)|
 
 *************************************************************************************************************************************************************
 
@@ -181,7 +155,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
    
 ```{r, out.width='90%', fig.align='center'}
-knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.png')
+#knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.png')
 ```
 
 
@@ -193,31 +167,29 @@ knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-|	01/06/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	08/06/2021	|	 Tabelas e Gráficos	|	Síncrona	|
-|	10/06/2021	|	 Laboratório Software R	|	Síncrona	|
-|	15/06/2021	|	 Medidas de Posição	|	Síncrona	|
-|	17/06/2021	|		|	Assíncrona	|
-|	22/06/2021	|	 Medidas de Posição e Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	24/06/2021	|		|	Assíncrona	|
-|	29/06/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
-|	01/07/2021	|	 Laboratório Software R	|	Síncrona	|
-|	06/07/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
-|	08/07/2021	|	PROVA 1	|		|
-|	13/07/2021	|	 Laboratório Software R	|	Síncrona	|
-|	15/07/2021	|		|	Assíncrona	|
-|	20/07/2021	|	 Introdução à Probabilidade	|	Síncrona	|
-|	22/07/2021	|		Apresentação do Trabalho|	Síncrona	|
-|	27/07/2021	|	 Distribuição Normal	|	Síncrona	|
-|	29/07/2021	|		|	Assíncrona	|
-|	03/08/2021	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
-|	05/08/2021	|		|	Assíncrona	|
-|	10/08/2021	|	 Intervalo de Confiança	|	Síncrona	|
-|	12/08/2021	|		|	Assíncrona	|
-|	17/08/2021	|	 Teste de Hipótese	|	Síncrona	|
-|	19/08/2021	|	PROVA 2	|		|
-|	24/08/2021	|	Segunda Chamada	|		|
-|	26/08/2021	|	OPTATIVA	|		|
+|	21/09/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
+|	23/09/2021	|		|	Assíncrona	|
+|	28/09/2021	|	 Tabelas e Gráficos	|	Síncrona	|
+|	30/09/2021	|	 Laboratório Software 	|	Síncrona	|
+|	05/10/2021	|	 Medidas de Posição	|	Síncrona	|
+|	07/10/2021	|		|	Assíncrona	|
+|	14/10/2021	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	19/10/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
+|	21/10/2021	|		|	Assíncrona	|
+|	26/10/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	04/11/2021	|	PROVA 1	|		|
+|	09/11/2021	|	 Introdução à Probabilidade	|	Síncrona	|
+|	11/11/2021	|		|	Assíncrona	|
+|	16/11/2021	|	 Distribuição Normal	|	Síncrona	|
+|	18/11/2021	|		|	Assíncrona	|
+|	23/11/2021	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
+|	25/11/2021	|		|	Assíncrona	|
+|	30/11/2021	|	 Intervalo de Confiança	|	Síncrona	|
+|	02/12/2021	|		|	Assíncrona	|
+|	07/12/2021	|	 Teste de Hipótese	|	Síncrona	|
+|	09/12/2021	|	PROVA 2	|		|
+|	14/12/2021	|	Segunda Chamada	|		|
+|	16/12/2021	|	OPTATIVA	|		|
 
 
 
@@ -254,7 +226,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1NjQgcF4qk1ri7NwzZOXDU4elF7RLb_5W/view?usp=sharing)     
 |                                         | **Lista de Exercícios_4** | [link](https://drive.google.com/file/d/10-eYqRggwdRhjZP6OKdaH1JYA-PyK-pG/view?usp=sharing) 
 | Introdução à Probabilidade             | Videoaula - parte 1              | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
-|                                        | Videoaula - parte 2 - NÃO ACESSAR DO YOUTUBE             | [link](https://drive.google.com/file/d/1UxTOlCRV6DtGnIrlwGGCvKWP7FwYo6LC/view?usp=sharing)  
+|                                        | Videoaula - parte 2 - **NÃO ACESSAR DO YOUTUBE**             | [link](https://drive.google.com/file/d/1UxTOlCRV6DtGnIrlwGGCvKWP7FwYo6LC/view?usp=sharing)  
 |                                         | Slides da Aula - Parte 1         | [link](https://drive.google.com/file/d/1KRBWd5UqDDDWPrt0dF0tYTTPgWtE0pLN/view?usp=sharing)     
 |                                         | Slides da Aula - Parte 2          | [link](https://drive.google.com/file/d/16hCVUfZqHcphTvy46gVtA7496YWDwrrB/view?usp=sharing) 
 |                                         | **Lista de Exercícios_5** | [link](https://drive.google.com/file/d/10TTtuVvC6U0c-XFVAiCq9PzUxQg-eNLX/view?usp=sharing) 
