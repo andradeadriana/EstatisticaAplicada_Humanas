@@ -32,7 +32,7 @@ opts_knit$set(width=75)
 **Prof. Adriana Andrade (DEMAT/UFRRJ)**
 andrade.ufrrj@mail.com
 
-Neste ambiente serão disponibilizados materiais relacionados com a disciplina de Estatística Aplicada às Ciências Humanas. Nessa disciplina são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos.Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
+Neste ambiente serão disponibilizados materiais relacionados com a disciplina de Estatística Aplicada às Ciências Humanas. Nessa disciplina são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos.Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R através da sua interface JAMOVI será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
 
 
 *************************************************************************************************************************************************************
@@ -150,14 +150,13 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 # **MONITORIA**
 
-O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
+O Departamento de Matemática conta com Monitores de Estatística que oferecem suporte aos alunos. 
 
 
    
-```{r, out.width='90%', fig.align='center'}
-#knitr::include_graphics('C:/Users/andra/Google Drive/_UFRRJ/2020_2SEM/Monitoria.png')
+```{r, out.width='100%', fig.align='center'}
+knitr::include_graphics('G:/Meu Drive/_UFRRJ/2021_1SEM/Horario_Monitoria_set2021.png')
 ```
-
 
 
 ***************************************************************************
