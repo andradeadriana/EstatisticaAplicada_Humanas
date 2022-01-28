@@ -155,7 +155,7 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 
    
 ```{r, out.width='100%', fig.align='center'}
-knitr::include_graphics('G:/Meu Drive/_UFRRJ/2021_1SEM/Horario_Monitoria_set2021.png')
+#knitr::include_graphics()
 ```
 
 
@@ -167,18 +167,18 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/2021_1SEM/Horario_Monitoria_set2021
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
 | 01/02/2022	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	03/02/2022	|		|	Assíncrona	|
+|	03/02/2022	|		Tabelas e Gráficos	|	Assíncrona	|
 |	08/02/2022	|	 Tabelas e Gráficos	|	Síncrona	|
 |	10/02/2022	|	 Laboratório Software 	|	Síncrona	|
 |	15/02/2022	|	 Medidas de Posição	|	Síncrona	|
-|	17/02/2022	|		|	Assíncrona	|
+|	17/02/2022	|		Medidas de Dispersão; Assimetria; Boxplot.	|	Assíncrona	|
 |	22/02/2022	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
 |	24/02/2022	|  Laboratório de Software
 |	03/03/2022	|		Análise bidimensional para variáveis quantitativas	|	Síncrona 	|	 
 | 08/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona |
-|	10/03/2022	|	PROVA 1	|		|
-|	15/03/2022	|	 Introdução à Probabilidade	|	Síncrona	|
-|	17/03/2022	|		|	Assíncrona	|
+|	10/03/2022	|  Análise bidimensional para variáveis qualitativas	|	Assíncrona |
+|	15/03/2022	|		PROVA 1	|		|
+|	17/03/2022	|		 Introdução à Probabilidade	|	Síncrona	|
 |	22/03/2022	|	 Distribuição Normal	|	Síncrona	|
 |	24/03/2022	|		|	Assíncrona	|
 |	29/03/2022	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
