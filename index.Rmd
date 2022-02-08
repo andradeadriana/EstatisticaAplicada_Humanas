@@ -118,17 +118,23 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 
 **SLIDES DE TUTORIAL**
+---
 
-- Instalação do JAMOVI, gráfico e tabelas [link](https://drive.google.com/file/d/17A5Ry48JcVPYlxPkM9euXODoXg6bLYgO/view?usp=sharing)
+**AULA 1**
+
+- Tutorial JAMOVI parte 1: instalação, tabelas e gráficos. [link](https://drive.google.com/file/d/17A5Ry48JcVPYlxPkM9euXODoXg6bLYgO/view?usp=sharing)
+
+**ATENÇÃO: faça o donwload da nova versão 2.2.5 do JAMOVI** 
 
 - Instalação do JASP [link](https://drive.google.com/open?id=1g9QyLvnXgfIZ8jrTkLunabhnVW1WtAHp)
+
 *A parte de tabelas, gráfico e instalação de módulos do JASP é semelhante ao JAMOVI. Consulte o material do JAMOVI.*
 
 - Conunto de dados -  [link](https://drive.google.com/file/d/16Zdo__Sq_dPVquwdu_ducqW_ynrR41C9/view?usp=sharing)
 
+---
 
-
-- **Aula 2**
+**AULA 2**
 
 |Material | Link|
 |---------|-----|
@@ -137,7 +143,9 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 | Tutorial JAMOVI parte 2| [link](https://drive.google.com/file/d/114zjJyEslutkAtvdEf5kJHWZrwnaWmxo/view?usp=sharing)|
 
 
-**Aula 3**
+---
+
+**AULA 3**
 
 |Material | |
 |---------|-----|
@@ -155,8 +163,27 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 
    
 ```{r, out.width='100%', fig.align='center'}
-#knitr::include_graphics()
+#knitr::include_graphics('G:/Meu Drive/_UFRRJ/2021_1SEM/Horario_Monitoria_set2021.png')
 ```
+
+---
+
+Introdução à Bioestatística - Rafael Santos de Oliveira
+rafaelsoliveira@live.com
+
+5ª: 13h – 17h
+
+5ª: 18h – 22h
+
+---
+Estatística Básica - Bernardo de Assis Oliveira
+bassis929@gmail.com
+
+2ª: 13h – 16h
+
+3ª: 13h - 15h
+
+4ª: 13h – 16h
 
 
 ***************************************************************************
@@ -166,30 +193,29 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 
 | Data                  |  Tópico                                          |   Atividade   |
 | -------------------   | -----------------------------------------------|---------------|
-| 01/02/2022	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
-|	03/02/2022	|		Tabelas e Gráficos	|	Assíncrona	|
-|	08/02/2022	|	 Tabelas e Gráficos	|	Síncrona	|
-|	10/02/2022	|	 Laboratório Software 	|	Síncrona	|
-|	15/02/2022	|	 Medidas de Posição	|	Síncrona	|
-|	17/02/2022	|		Medidas de Dispersão; Assimetria; Boxplot.	|	Assíncrona	|
-|	22/02/2022	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
-|	24/02/2022	|  Laboratório de Software
-|	03/03/2022	|		Análise bidimensional para variáveis quantitativas	|	Síncrona 	|	 
-| 08/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona |
-|	10/03/2022	|  Análise bidimensional para variáveis qualitativas	|	Assíncrona |
-|	15/03/2022	|		PROVA 1	|		|
-|	17/03/2022	|		 Introdução à Probabilidade	|	Síncrona	|
-|	22/03/2022	|	 Distribuição Normal	|	Síncrona	|
-|	24/03/2022	|		|	Assíncrona	|
-|	29/03/2022	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
-|	31/03/2022	|		|	Assíncrona	|
-|	07/04/2021	|		Amostragem	|
-|	12/04/2022	|	 Intervalo de Confiança	|	Síncrona	|
-|	14/04/2021	|		|	Assíncrona	|
-|	19/04/2021	|	 Teste de Hipótese	|	Síncrona	|
-|	26/04/2022	|	PROVA 2	|		|
-|	28/04/2022	|	Segunda Chamada	|		|
-|	03/05/2022	|	OPTATIVA	|		|
+|	21/09/2021	|	 Apresentação do Curso. Tipos de variáveis. Tabelas	|	Síncrona	|
+|	23/09/2021	|		|	Assíncrona	|
+|	28/09/2021	|	 Tabelas e Gráficos	|	Síncrona	|
+|	30/09/2021	|	 Laboratório Software 	|	Síncrona	|
+|	05/10/2021	|	 Medidas de Posição	|	Síncrona	|
+|	07/10/2021	|		|	Assíncrona	|
+|	14/10/2021	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
+|	19/10/2021	|	 Análise bidimensional para variáveis quantitativas	|	Síncrona	|
+|	21/10/2021	|		|	Assíncrona	|
+|	26/10/2021	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona	|
+|	04/11/2021	|	PROVA 1	|		|
+|	09/11/2021	|	 Introdução à Probabilidade	|	Síncrona	|
+|	11/11/2021	|		|	Assíncrona	|
+|	16/11/2021	|	 Distribuição Normal	|	Síncrona	|
+|	18/11/2021	|		|	Assíncrona	|
+|	23/11/2021	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
+|	25/11/2021	|		|	Assíncrona	|
+|	30/11/2021	|	 Intervalo de Confiança	|	Síncrona	|
+|	02/12/2021	|		|	Assíncrona	|
+|	07/12/2021	|	 Teste de Hipótese	|	Síncrona	|
+|	09/12/2021	|	PROVA 2	|		|
+|	14/12/2021	|	Segunda Chamada	|		|
+|	16/12/2021	|	OPTATIVA	|		|
 
 
 
