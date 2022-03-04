@@ -204,19 +204,19 @@ bassis929@gmail.com
 |	17/02/2022	|		|	Assíncrona	|
 |	22/02/2022	|	 Medidas de Dispersão; Assimetria; Boxplot.	|	Síncrona	|
 |	24/02/2022	|  Laboratório de Software
-|	03/03/2022	|		Análise bidimensional para variáveis quantitativas	|	Síncrona 	|	 
-| 08/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Assíncrona |
-|	10/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	Síncrona |
+|	03/03/2022	|	 Análise bidimensional para variáveis quantitativas	|	Assíncrona 	|	 
+| 08/03/2022	|	 Análise bidimensional para variáveis quantitativas e qualitativas	|	 |
+|	10/03/2022	|	 Análise bidimensional para variáveis qualitativas	|	 |
 |	15/03/2022	|	 PROVA 1	|		|
-|	17/03/2022	|		|	Assíncrona	|
-|	22/03/2022	|	Introdução à Probabilidade	|	Síncrona	|
-|	24/03/2022	|		 Distribuição Normal	|	Síncrona	|
-|	29/03/2022	|	 Introdução à Inferência Estatística e Amostragem	|	Síncrona	|
-|	31/03/2022	|		|	Assíncrona	|
-|	07/04/2021	|		Amostragem	|
-|	12/04/2022	|	 Intervalo de Confiança	|	Síncrona	|
-|	14/04/2021	|		|	Assíncrona	|
-|	19/04/2021	|	 Teste de Hipótese	|	Síncrona	|
+|	17/03/2022	|	 Introdução à Probabilidade|		|
+|	22/03/2022	|	 Introdução à Probabilidade	|		|
+|	24/03/2022	|	 Distribuição Normal	|		|
+|	29/03/2022	|	 Distribuição Normal |		|
+|	31/03/2022	|	 Introdução à Inferência Estatística 	|		|
+|	07/04/2021	|	 Amostragem	|
+|	12/04/2022	|	 Intervalo de Confiança	|		|
+|	14/04/2021	|	 Intervalo de Confiança|		|
+|	19/04/2021	|	 Teste de Hipótese	|		|
 |	26/04/2022	|	PROVA 2	|		|
 |	28/04/2022	|	Segunda Chamada	|		|
 |	03/05/2022	|	OPTATIVA	|		|
