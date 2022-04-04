@@ -215,13 +215,14 @@ bassis929@gmail.com
 |	15/03/2022	|	 Análise bidimensional para variáveis qualitativas	|		|
 |	17/03/2022	|	 PROVA 1|		|
 |	22/03/2022	|	 Introdução à Probabilidade	|		|
-|	24/03/2022	|	 Distribuição Normal	|		|
+|	24/03/2022	|	 Introdução à Probabilidade	|		|
 |	29/03/2022	|	 Distribuição Normal |		|
-|	31/03/2022	|	 Introdução à Inferência Estatística 	|		|
-|	07/04/2021	|	 Amostragem	|
-|	12/04/2022	|	 Intervalo de Confiança	|		|
-|	14/04/2021	|	 Intervalo de Confiança|		|
-|	19/04/2021	|	 Teste de Hipótese	|		|
+|	31/03/2022	|	 Distribuição Normal 	|		|
+|	05/04/2021	|	 Introdução à Inferência Estatística e Amostragem|
+|	07/04/2021	|	 Intervalo de Confiança	|
+|	12/04/2022	|	 Teste de Hipóteses|		|
+|	14/04/2021	|	 Não haverá aula|		|
+|	19/04/2021	|	 Teste de Hipóteses	|		|
 |	26/04/2022	|	PROVA 2	|		|
 |	28/04/2022	|	Segunda Chamada	|		|
 |	03/05/2022	|	OPTATIVA	|		|
