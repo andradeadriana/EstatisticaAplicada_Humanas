@@ -174,8 +174,8 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 
 
    
-```{r, out.width='100%', fig.align='center'}
-#knitr::include_graphics('G:/Meu Drive/_UFRRJ/2021_1SEM/Horario_Monitoria_set2021.png')
+```{r, out.width='50%', fig.align='center'}
+knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Monitoria_2022.png')
 ```
 
 ---
