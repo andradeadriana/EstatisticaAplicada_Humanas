@@ -113,7 +113,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 *************************************************************************************************************************************************************
 # **PROVAS**
 
-P1 - 28/07/2022
+P1 - 19/07/2022
 
 P2 - 06/09/2022
 
@@ -190,7 +190,7 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 
 # **CRONOGRAMA** 
 
-```{r, out.width='100%', fig.align='center'}
+```{r, out.width='150%', fig.align='center'}
 knitr::include_graphics('G:/Meu Drive/_UFRRJ/2022_1SEM/Crognograma_APLICADA.png')
 ```
 
