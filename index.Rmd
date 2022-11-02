@@ -200,9 +200,9 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 |	25/10/2022	|	Exercícios	|
 |	27/10/2022	|	Medidas de Posição e Tendência Central	|
 |	01/11/2022	|	Medidas de Dispersão	|
-|	03/11/2022	|	Atividade 1	|
+|	03/11/2022	|	Não haverá aula	|
 |	08/11/2022	|	Boxplot	|
-|	10/11/2022	|	Atividade 2	|
+|	10/11/2022	|	Não haverá aula	|
 |	17/11/2022	|	Exercícios	|
 |	22/11/2022	|	Análise Bidimensional - Variáveis Quantitativas	|
 |	24/11/2022	|	Exercícios	|
