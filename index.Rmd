@@ -113,7 +113,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 *************************************************************************************************************************************************************
 # **PROVAS**
 
-P1 - 06/12/2022
+P1 - 13/12/2022
 
 P2 - 28/02/2023
 
@@ -205,18 +205,18 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 |	10/11/2022	|	Não haverá aula	|
 |	17/11/2022	|	Exercícios	|
 |	22/11/2022	|	Análise Bidimensional - Variáveis Quantitativas	|
-|	24/11/2022	|	Exercícios	|
-|	29/11/2022	|	Análise Bidimensional - Variáveis Qualitativas	|
-|	01/12/2022	|	Exercícios	|
-|	06/12/2022	|	Prova 1	|
-|	08/12/2022	|	Introdução à probabilidade	|
-|	13/12/2022	|	Exercícios	|
-|	15/12/2022	|	Distribuição Normal	|
-|	20/12/2022	|	Distribuição Normal	|
-|	22/12/2022	|	Exercícios	|
+|	24/11/2022	|	Jogo da Seleção - Não haverá aula	|
+|	29/11/2022	|	Exercícios	|
+|	01/12/2022	|	Análise Bidimensional - Variáveis Qualitativas	|
+|	06/12/2022	|	Exercícios	|
+|	08/12/2022	|	Exercícios - Revisão	|
+|	13/12/2022	|	Prova 1	|
+|	15/12/2022	|	Introdução à probabilidade	|
+|	20/12/2022	|	Exercícios	|
+|	22/12/2022	|	Distribuição Normal	|
 |	27/12/2022	|	Recesso Escolar 27/12/2022 a 19/01/2023	|
-|	24/01/2023	|	Revisão Distribuição Normal	|
-|	26/01/2023	|	Atividade 3	|
+|	24/01/2023	|	Distribuição Normal	|
+|	26/01/2023	|	Exercícios	|
 |	31/01/2023	|	Introdução à Inferência Estatística e Amostragem	|
 |	02/02/2023	|	Exercicios	|
 |	07/02/2023	|	Intervalo de Confiança para a média	|
