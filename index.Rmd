@@ -180,6 +180,19 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Monitoria_2022_2.png')
 ```
 
+## *Listas de Exercícios da Monitoria*
+
+
+|	Tópico	|	Lista	|
+|-------|---------|
+|Tabela de distribuição de frequência | [lista 1](https://drive.google.com/file/d/12YIFSQCjMRjmm4G2pDPxzx1cTKQA8viC/view?usp=share_link)|
+|Medidas Resumo| [lista 2](https://drive.google.com/file/d/12kuHFywYEf-7GinG_O40fk0H6uXWI6nL/view?usp=share_link)|
+|Análise Bidimensional Qualitativa| [lista 3](https://drive.google.com/file/d/12bgEtG7VNeRzFhueDy9dcsPt6uXTXCmI/view?usp=share_link)|
+|Análise Bidimensional Quantitativa| [lista 4](https://drive.google.com/file/d/12h3s-_efxk01JyEEo03oJdnv4WrHMGvL/view?usp=sharing)|
+|Probabilidade |[lista](https://drive.google.com/file/d/12dfQinLZjJtydATMFhgzTbvZJmhGsK1h/view?usp=share_link)|
+|Amostragem |[lista](https://drive.google.com/file/d/12iQskKpT1Yk-3MmmWM40-NXhSHhC6plZ/view?usp=share_link)|
+|Intervalo de Confiança |[lista](https://drive.google.com/file/d/12bVT-mQ6kXA3HqkhNz5KkG9UPoC9_rY-/view?usp=share_link)|
+
 ---
 
 
