@@ -115,7 +115,7 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 
 P1 - 13/12/2022
 
-P2 - 28/02/2023
+P2 - 02/03/2023
 
 Optativa - 14/03/2023
 
@@ -234,14 +234,14 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 |	02/02/2023	|	Exercicios	|
 |	07/02/2023	|	Intervalo de Confiança para a média	|
 |	09/02/2023	|	Exercícios	|
-|	14/02/2023	|	Intervalo de Confiança para a proporção	|
-|	16/02/2023	|	Exercícios	|
-|	21/02/2023	|	Teste de Hipóteses	|
-|	23/02/2023	|	Exercícios	|
-|	28/02/2023	|	P2	|
-|	02/03/2023	|	Não haverá aula	|
-|	07/03/2023	|	Segunda Chamada	|
-|	09/03/2023	|	Não haverá aula	|
+|	14/02/2023	| Teste de Hipóteses	|
+|	16/02/2023	|	Não haverá aula	|
+|	21/02/2023	|	Não haverá aula	|
+|	23/02/2023	|	Não haverá aula	|
+|	28/02/2023	|	Exercícios	|
+|	02/03/2023	|	PROVA 2	|
+|	07/03/2023	|	Não haverá aula		|
+|	09/03/2023	|	Segunda Chamada|
 |	14/03/2023	|	Optativa	|
 
 
