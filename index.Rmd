@@ -113,11 +113,13 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 *************************************************************************************************************************************************************
 # **PROVAS**
 
-P1 - 13/12/2022
+P1 - 25/05/2023
 
-P2 - 02/03/2023
+P2 - 18/07/2023
 
-Optativa - 14/03/2023
+Segunda Chamada e Vista de prova - 25/07/2023
+
+Optativa - 01/08/2023
 
 
 *Formulário* [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
@@ -208,41 +210,39 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 
 |	Data	|	Tópico	|
 |-------|---------|
-|	18/10/2022	|	Apresentação da Disciplina. Apresentação dos dados em Tabelas	|
-|	20/10/2022	|	Apresentação dos dados em Gráficos	|
-|	25/10/2022	|	Exercícios	|
-|	27/10/2022	|	Medidas de Posição e Tendência Central	|
-|	01/11/2022	|	Medidas de Dispersão	|
-|	03/11/2022	|	Não haverá aula	|
-|	08/11/2022	|	Boxplot	|
-|	10/11/2022	|	Não haverá aula	|
-|	17/11/2022	|	Exercícios	|
-|	22/11/2022	|	Análise Bidimensional - Variáveis Quantitativas	|
-|	24/11/2022	|	Jogo da Seleção - Não haverá aula	|
-|	29/11/2022	|	Exercícios	|
-|	01/12/2022	|	Análise Bidimensional - Variáveis Qualitativas	|
-|	06/12/2022	|	Exercícios	|
-|	08/12/2022	|	Exercícios - Revisão	|
-|	13/12/2022	|	Prova 1	|
-|	15/12/2022	|	Introdução à probabilidade	|
-|	20/12/2022	|	Exercícios	|
-|	22/12/2022	|	Distribuição Normal	|
-|	27/12/2022	|	Recesso Escolar 27/12/2022 a 19/01/2023	|
-|	24/01/2023	|	Distribuição Normal	|
-|	26/01/2023	|	Exercícios	|
-|	31/01/2023	|	Introdução à Inferência Estatística e Amostragem	|
-|	02/02/2023	|	Exercicios	|
-|	07/02/2023	|	Intervalo de Confiança para a média	|
-|	09/02/2023	|	Exercícios	|
-|	14/02/2023	| Teste de Hipóteses	|
-|	16/02/2023	|	Não haverá aula	|
-|	21/02/2023	|	Não haverá aula	|
-|	23/02/2023	|	Não haverá aula	|
-|	28/02/2023	|	Exercícios	|
-|	02/03/2023	|	PROVA 2	|
-|	07/03/2023	|	Não haverá aula		|
-|	09/03/2023	|	Segunda Chamada|
-|	14/03/2023	|	Optativa	|
+|	11/04/2023	|	Não haverá aula		|
+|	11/04/2023	|	Teste de Hipóteses		|
+|	13/04/2023	|	Alunos liberados para atividades de recepção dos cauloros. Não haverá aula.		|
+|	18/04/2023	|	Apresentação da Disciplina. Apresentação dos dados em Tabelas		|
+|	20/04/2023	|	Apresentação dos dados em Gráficos		|
+|	25/04/2023	|	Medidas de Posição		|
+|	27/04/2023	|	Dispersão; Assimetria; Boxplot.		|
+|	02/05/2023	|	Exercícios		|
+|	04/05/2023	|	Laboratório Software		|
+|	09/05/2023	|	Análise bidimensional para variáveis quantitativas		|
+|	11/05/2023	|	Exercícios		|
+|	16/05/2023	|	Análise bidimensional para variáveis qualitativas		|
+|	18/05/2023	|	Laboratório Software		|
+|	23/05/2023	|	Exercícios		|
+|	25/05/2023	|	PROVA 1		|
+|	30/05/2023	|	lntrodução à Probabilidade		|
+|	01/06/2023	|	Exercícios		|
+|	06/06/2023	|	Distribuição Normal		|
+|	13/06/2023	|	Exercícios		|
+|	15/06/2023	|	Introdução à Inferência Estatística e Amostragem		|
+|	20/06/2023	|	Exercícios		|
+|	22/06/2023	|	Intervalo de Confiança para a Média		|
+|	27/06/2023	|	Exercícios		|
+|	29/06/2023	|	Intervalo de Confiança para a Proporção		|
+|	04/07/2023	|	Exercícios		|
+|	06/07/2023	|	Teste de Hipóteses		|
+|	13/07/2023	|	Exercícios		|
+|	18/07/2023	|	PROVA 2		|
+|	20/07/2023	|	Não haverá aula		|
+|	25/07/2023	|	Segunda Chamada e Vista de Prova		|
+|	27/07/2023	|	Não haverá aula		|
+|	01/08/2023	|	Optativa		|
+
 
 
 ***************************************************************************
