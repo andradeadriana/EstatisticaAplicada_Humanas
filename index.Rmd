@@ -127,6 +127,16 @@ Optativa - 01/08/2023
 
 *************************************************************************************************************************************************************
 
+# **TRABALHO**
+
+
+|Material | |
+|---------|-----|
+|Orientações para o trabalho| [link](https://drive.google.com/open?id=1SAQ5wACQuVJ9gMmrhHNPKmy0kccc41T7&usp=drive_fs)|
+|Base de dados |  [Base_2023_814.csv](https://drive.google.com/open?id=1S9eWg0f8uDWMsilDTdHJYFhM6h92p54i&usp=drive_fs)|
+
+*************************************************************************************************************************************************************
+
 # **SOFTWARE**
 
 
