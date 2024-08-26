@@ -113,13 +113,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 *************************************************************************************************************************************************************
 # **PROVAS**
 
-P1 - 25/05/2023
+P1 - 15/10/2024
 
-P2 - 18/07/2023
+P2 - 10/12/2024
 
-Segunda Chamada e Vista de prova - 25/07/2023
-
-Optativa - 01/08/2023
+Optativa - 19/12/2023
 
 
 *Formulário* [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
@@ -132,8 +130,8 @@ Optativa - 01/08/2023
 
 |Material | |
 |---------|-----|
-|Orientações para o trabalho| [link](https://drive.google.com/file/d/1SAQ5wACQuVJ9gMmrhHNPKmy0kccc41T7/view?usp=sharing)|
-|Base de dados |  [Base_2023_814.csv](https://drive.google.com/file/d/1S9eWg0f8uDWMsilDTdHJYFhM6h92p54i/view?usp=sharing)|
+|Orientações para o trabalho| [link]()|
+|Base de dados |  [Base]()|
 
 *************************************************************************************************************************************************************
 
@@ -189,7 +187,7 @@ O Departamento de Matemática conta com Monitores de Estatística que oferecem s
 
    
 ```{r, out.width='50%', fig.align='center'}
-knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Monitoria.png')
+knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/GitHub/EstatisticaAplicada_Humanas/Monitoria_2024_2.jpg')
 ```
 
 ## *Listas de Exercícios da Monitoria*
@@ -217,41 +215,42 @@ knitr::include_graphics('G:/Meu Drive/_UFRRJ/_Teaching/Material/ESTAT APLIC CH/G
 
 # **CRONOGRAMA** 
 
-
 |	Data	|	Tópico	|
 |-------|---------|
-|	11/04/2023	|	Não haverá aula		|
-|	11/04/2023	|	Teste de Hipóteses		|
-|	13/04/2023	|	Alunos liberados para atividades de recepção dos cauloros. Não haverá aula.		|
-|	18/04/2023	|	Apresentação da Disciplina. Apresentação dos dados em Tabelas		|
-|	20/04/2023	|	Apresentação dos dados em Gráficos		|
-|	25/04/2023	|	Medidas de Posição		|
-|	27/04/2023	|	Dispersão; Assimetria; Boxplot.		|
-|	02/05/2023	|	Exercícios		|
-|	04/05/2023	|	Laboratório Software		|
-|	09/05/2023	|	Análise bidimensional para variáveis quantitativas		|
-|	11/05/2023	|	Exercícios		|
-|	16/05/2023	|	Análise bidimensional para variáveis qualitativas		|
-|	18/05/2023	|	Laboratório Software		|
-|	23/05/2023	|	Exercícios		|
-|	25/05/2023	|	PROVA 1		|
-|	30/05/2023	|	Introdução à Probabilidade		|
-|	01/06/2023	|	Introdução à Probabilidade		|
-|	06/06/2023	|	Exercícios		|
-|	13/06/2023	|	Distribuição Normal		|
-|	15/06/2023	|	Distribuição Normal		|
-|	20/06/2023	|	Exercícios		|
-|	22/06/2023	|		|
-|	27/06/2023	|	Introdução à Inferência Estatística e Amostragem		|
-|	29/06/2023	| Exercícios		|
-|	04/07/2023	|	Intervalo de Confiança para a Média		|
-|	06/07/2023	|	Intervalo de Confiança para a Proporção	|
-|	13/07/2023	|	Exercícios		|
-|	18/07/2023	|	PROVA 2		|
-|	20/07/2023	|	Não haverá aula		|
-|	25/07/2023	|	Segunda Chamada e Vista de Prova		|
-|	27/07/2023	|	Não haverá aula		|
-|	01/08/2023	|	Optativa		|
+|	27/08/2024  | Apresentação da Disciplina. Tipo de Variáveis		|
+|	29/08/2024  | Tabelas e Gráficos		|
+|	03/09/2024	|	Medidas de Posição	|
+|	05/09/2024	|	Medidas de Dispersão	|
+|	10/09/2024	|	Boxplot	|
+|	12/09/2024	|	Exercícios	|
+|	17/09/2024	|	Laboratório Software	|
+|	19/09/2024	|	Análise bidimensional para variáveis quantitativas	|
+|	24/09/2024	|	Exercícios	|
+|	26/09/2024	|	Análise bidimensional para variáveis qualitativas	|
+|	03/10/2024	|	Laboratório Software	|
+|	08/10/2024	|	Exercícios	|
+|	10/10/2024	|	XI Reunião Anual de Iniciação Científica	|
+|	15/10/2024	|	PROVA 1	|
+|	17/10/2024	|	Laboratório Software	|
+|	22/10/2024	|	Introdução à Probabilidade	|
+|	24/10/2024	|	Exercício	|
+|	29/10/2024	|	Distribuição Normal	|
+|	31/10/2024	|	Exercício	|
+|	05/11/2024	|	Introdução à Inferência Estatística	|
+|	07/11/2024	|	Amostragem	|
+|	12/11/2024	|	Exercício	|
+|	14/11/2024	|	Intervalo de Confiança para a média	|
+|	19/11/2024	|	Exercício	|
+|	21/11/2024	|	Intervalo de Confiança para a proporção	|
+|	26/11/2024	|	Exercício	|
+|	28/11/2024	|	Teste de Hipóteses	|
+|	03/12/2024	|	Teste de Hipóteses	|
+|	05/12/2024	|	Exercícios	|
+|	10/12/2024	|	PROVA 2	|
+|	12/12/2024	|	Não haverá aula	|
+|	17/12/2024	|	Vista de prova - Aplicação de Segunda Chamada	|
+|	19/12/2024	|	Optativa	|
+
 
 
 
@@ -304,9 +303,9 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Intervalo de Confiança                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) 
 |                                         | Slides da Aula - Intervalo de Confiança        | [link](https://drive.google.com/file/d/1P7DX-4gOTmd-p_wXwIj2FM-zn934fxZw/view?usp=sharing)
 |                                         | **Lista de Exercícios_8** | [link](https://drive.google.com/file/d/1lYwqaxUpwZ79RASMlv1RxP2-w-drvJng/view?usp=sharing) 
-<!-- | Teste de Hipótese                   | Videoaula_Motivação               | [link](https://drive.google.com/file/d/1wCqyCuiTyfJMg1ajFHd8E0M2XRozu0et/view?usp=sharing)  -->
-<!-- |                                         | Slides da Aula - Teste de Hipóteses        | [link](https://drive.google.com/file/d/12Jq6mu0RxPPJq4UoK8IgvRRzPAlXkjmk/view?usp=sharing) -->
-<!-- |                                         | **Lista de Exercícios_9** | [link](https://drive.google.com/file/d/1i0htwVHfcMmtt9XA-BKTD8J3bqZCXbkP/view?usp=sharing)  -->
+| Teste de Hipótese                   | Videoaula_Motivação               | [link](https://drive.google.com/file/d/1wCqyCuiTyfJMg1ajFHd8E0M2XRozu0et/view?usp=sharing)  
+|                                         | Slides da Aula - Teste de Hipóteses        | [link](https://drive.google.com/file/d/12Jq6mu0RxPPJq4UoK8IgvRRzPAlXkjmk/view?usp=sharing) 
+|                                         | **Lista de Exercícios_9** | [link](https://drive.google.com/file/d/1i0htwVHfcMmtt9XA-BKTD8J3bqZCXbkP/view?usp=sharing)  
 
 
 *************************************************************************************************************************************************************
